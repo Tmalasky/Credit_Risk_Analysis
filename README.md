@@ -6,6 +6,22 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 # Overview
 ### - Deliverable 1: Use Resampling Models to Predict Credit Risk
+#### - For all three algorithms, the following have been completed:
+ - An accuracy score for the model is calculated.
+ - A confusion matrix has been generated.
+ - An imbalanced classification report has been generated.
+
+#### RandomOverSampler
+ - An accuracy score for the model is calculated.
+ - A confusion matrix has been generated.
+ - An imbalanced classification report has been generated.
+
+#### SMOTE
+ - An accuracy score for the model is calculated.
+ - A confusion matrix has been generated.
+ - An imbalanced classification report has been generated.
+
+#### ClusterCentroids
  - An accuracy score for the model is calculated.
  - A confusion matrix has been generated.
  - An imbalanced classification report has been generated.
@@ -18,13 +34,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ### - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
- - The BalancedRandomForestClassifier algorithm does the following:
+ #### - The BalancedRandomForestClassifier algorithm does the following:
   - An accuracy score for the model is calculated.
   - A confusion matrix has been generated.
   - An imbalanced classification report has been generated.
   - The features are sorted in descending order by feature importance.
   
- - The EasyEnsembleClassifier algorithm does the following:
+ #### - The EasyEnsembleClassifier algorithm does the following:
   - An accuracy score of the model is calculated.
   - A confusion matrix has been generated.
   - An imbalanced classification report has been generated.
