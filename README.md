@@ -84,3 +84,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ![Screen Shot 2022-10-13 at 1 51 45 PM](https://user-images.githubusercontent.com/105253626/195669920-bdb49bf2-aa17-4f37-9cfc-9e2821e0615d.png)
 
+
+# Summary
+For the RandomOverSamplier, SMOTE, and ClusterCentroids models the pre and F1 scores are low and not adequate for predicting high risk. As for the SMOTEENN it did a little better but still not a adequate model for high risk. The BalancedRandomForestClassifier was not a good model either but it does give us a feature importance so we can see our top features. The EasyEnsembleClassifier was our best model for predicting the loan risk.
+
