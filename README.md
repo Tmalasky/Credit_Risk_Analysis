@@ -23,14 +23,26 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ### SMOTE
- - An accuracy score for the model is calculated.
+ - An accuracy score for the model is calculated as 0.844
  - A confusion matrix has been generated.
+
+![Screen Shot 2022-10-13 at 1 38 27 PM](https://user-images.githubusercontent.com/105253626/195667342-1e9111e9-1903-4e41-a855-cbb614f2b8cb.png)
+
  - An imbalanced classification report has been generated.
+ 
+ ![Screen Shot 2022-10-13 at 1 38 48 PM](https://user-images.githubusercontent.com/105253626/195667379-fa2ed435-af87-4eea-ba63-0d38aa3e1314.png)
+
 
 ### ClusterCentroids
- - An accuracy score for the model is calculated.
+ - An accuracy score for the model is calculated as 0.844
  - A confusion matrix has been generated.
+ 
+ ![Screen Shot 2022-10-13 at 1 41 23 PM](https://user-images.githubusercontent.com/105253626/195667794-6227afaa-40bd-4082-af63-44908dee0c9d.png)
+
+ 
  - An imbalanced classification report has been generated.
+
+![Screen Shot 2022-10-13 at 1 41 42 PM](https://user-images.githubusercontent.com/105253626/195667814-fc343d7c-237f-45e4-a420-c22af560b426.png)
 
 
 ### - Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
