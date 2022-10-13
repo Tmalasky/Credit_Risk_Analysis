@@ -46,19 +46,41 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ### - Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
- - An accuracy score for the model is calculated.
+ - An accuracy score for the model is calculated as 0.844
  - A confusion matrix has been generated.
+ 
+ ![Screen Shot 2022-10-13 at 1 44 46 PM](https://user-images.githubusercontent.com/105253626/195668469-b77ee48c-9b85-442f-8b98-f3f6930149ec.png)
+
+ 
  - An imbalanced classification report has been generated.
+
+![Screen Shot 2022-10-13 at 1 45 05 PM](https://user-images.githubusercontent.com/105253626/195668496-d31f5ce8-e1e5-45c2-a68e-c7a453377cb8.png)
 
 
 ### - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
  #### - The BalancedRandomForestClassifier algorithm does the following:
-  - An accuracy score for the model is calculated.
+  - An accuracy score for the model is calculated as 0.784
   - A confusion matrix has been generated.
+  
+  ![Screen Shot 2022-10-13 at 1 46 43 PM](https://user-images.githubusercontent.com/105253626/195669068-898a4f0d-7d9e-49ff-88cc-adb2e42824dd.png)
+
   - An imbalanced classification report has been generated.
+ 
+ ![Screen Shot 2022-10-13 at 1 46 59 PM](https://user-images.githubusercontent.com/105253626/195669108-435be463-9d5d-4f4e-9ca1-da7bd5b56a00.png)
+
   - The features are sorted in descending order by feature importance.
   
+  ![Screen Shot 2022-10-13 at 1 50 34 PM](https://user-images.githubusercontent.com/105253626/195669641-ee24887b-bd28-4d38-90fb-11e93ddfe765.png)
+
+  
  #### - The EasyEnsembleClassifier algorithm does the following:
-  - An accuracy score of the model is calculated.
+  - An accuracy score of the model is calculated as 0.931
   - A confusion matrix has been generated.
+  
+  ![Screen Shot 2022-10-13 at 1 51 29 PM](https://user-images.githubusercontent.com/105253626/195669878-6837da1d-0f3e-4c9d-b70d-2b9c4ce4b332.png)
+
+  
   - An imbalanced classification report has been generated.
+
+![Screen Shot 2022-10-13 at 1 51 45 PM](https://user-images.githubusercontent.com/105253626/195669920-bdb49bf2-aa17-4f37-9cfc-9e2821e0615d.png)
+
